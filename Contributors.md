@@ -1,8 +1,8 @@
 # Contributors
 
-#### Name: [Carlota Monleon](GitHub Link)
+#### Name: [Carlota Monleon](https://github.com/carlotamf)
 - Place: Ademuz, Valencia
-- Bio: IA, Big Data & Cloud student
+- Bio: Student in EDEM, Valencia
 - GitHub: [carlotamf](https://github.com/carlotamf)
 
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
